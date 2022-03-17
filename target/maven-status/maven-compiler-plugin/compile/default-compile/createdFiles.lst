@@ -1,0 +1,6 @@
+com\jerome\wordcount\component\CustomPartitioner.class
+com\jerome\wordcount\component\WordCountReducer.class
+com\jerome\wordcount\WordCountCombinerPartitionerApp.class
+com\jerome\wordcount\WordCountCombinerApp.class
+com\jerome\wordcount\component\WordCountMapper.class
+com\jerome\wordcount\WordCountApp.class
